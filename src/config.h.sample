@@ -1,0 +1,7 @@
+#ifndef C_CONFIG_H
+#define C_CONFIG_H
+
+const char* ssid = "";
+const char* password =  "";
+
+#endif //C_CONFIG_H
